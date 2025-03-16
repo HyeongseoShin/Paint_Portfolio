@@ -9,7 +9,8 @@
 
 ## 프로젝트 개요
 -------------------------
-![Stage_Intro](https://github.com/user-attachments/assets/eda41237-1c3a-4249-99c0-37f690b9ac5b)
+<img src = "![Stage_Intro](https://github.com/user-attachments/assets/eda41237-1c3a-4249-99c0-37f690b9ac5b)" width = "40%" height = "30%"></img>
+
 
 * 게임 장르: 캐주얼, 퍼즐
 * 플랫폼 : PC (STEAM)
