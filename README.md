@@ -22,8 +22,11 @@
   - 프로그래밍 : 2명 (본인)
   - 기획 : 1명
   - 아트 : 1명
-
+<br>
+<br>
 ## 스팀 페이지 : https://store.steampowered.com/app/2516270/Pant/?l=koreana
+<br>
+<br>
 
 ## 게임 소개
 
