@@ -9,9 +9,9 @@
 
 ## 프로젝트 개요
 
-<img src = "https://github.com/user-attachments/assets/ddbb748a-d41e-4daf-9620-41d15d27f792" width = "40%" height = "40%"/>
+<img src = "https://github.com/user-attachments/assets/ddbb748a-d41e-4daf-9620-41d15d27f792" width = "50%" height = "50%"/>
 
-<img src = "https://github.com/user-attachments/assets/6a0353f1-98da-422c-8429-bf71f36ed5ec" width = "40%" height = "40%"/>
+<img src = "https://github.com/user-attachments/assets/6a0353f1-98da-422c-8429-bf71f36ed5ec" width = "50%" height = "50%"/>
 
 * 게임 장르: 캐주얼, 퍼즐
 * 플랫폼 : PC (STEAM)
