@@ -23,7 +23,7 @@
   - 기획 : 1명
   - 아트 : 1명
 
-* 스팀 페이지 : https://store.steampowered.com/app/2516270/Pant/?l=koreana
+## 스팀 페이지 : https://store.steampowered.com/app/2516270/Pant/?l=koreana
 
 ## 게임 소개
 
