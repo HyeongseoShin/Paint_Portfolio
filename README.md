@@ -5,17 +5,13 @@
 
 
 # Pa!nt
--------------------------
+
 
 ## 프로젝트 개요
--------------------------
+
 <img src = "https://github.com/user-attachments/assets/ddbb748a-d41e-4daf-9620-41d15d27f792" width = "40%" height = "30%"></img>
 
 <img src = "https://github.com/user-attachments/assets/6a0353f1-98da-422c-8429-bf71f36ed5ec" width = "40%" height = "30%"></img>
-
-
-
-
 
 * 게임 장르: 캐주얼, 퍼즐
 * 플랫폼 : PC (STEAM)
@@ -30,9 +26,9 @@
 * 스팀 페이지 : https://store.steampowered.com/app/2516270/Pant/?l=koreana
 
 ## 게임 소개
-----------------------------
 
-게임 트레일러 영상 첨부
+https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
+
 
 한 줄 소개
 - "플레이어와 같은 색은 지나가고 다른 색은 부딪힌다"라는 성질을 이용해 플레이어의 색을 바꿔가며 퍼즐을 클리어하는 게임
