@@ -77,10 +77,7 @@ https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 |Player 조작감 개선|점프 버퍼 타임<br>코요테 타임|
 |Scene 관리 및 유기적 연결|다중 씬이 열려 있을 때 예외 처리<br>인게임 내 카메라 전환 관리|
 
-|최적화|* Sprite Atlas
-* Addressable Asset System
-* 카메라 및 스크립트 최적화
-|
+|최적화|Sprite Atlas<br>Addressable Asset System<br>카메라 및 스크립트 최적화|
 |Post Processing을 이용한 흑백 연출||
 |힌트 기능 제작||
 |인트로 컷신 & 튜토리얼 제작||
