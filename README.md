@@ -9,9 +9,9 @@
 
 ## 프로젝트 개요
 
-<img src = "https://github.com/user-attachments/assets/ddbb748a-d41e-4daf-9620-41d15d27f792" width = "40%" height = "30%"></img>
+<img src = "https://github.com/user-attachments/assets/ddbb748a-d41e-4daf-9620-41d15d27f792" width = "40%" height = "30%"/>
 
-<img src = "https://github.com/user-attachments/assets/6a0353f1-98da-422c-8429-bf71f36ed5ec" width = "40%" height = "30%"></img>
+<img src = "https://github.com/user-attachments/assets/6a0353f1-98da-422c-8429-bf71f36ed5ec" width = "40%" height = "30%"/>
 
 * 게임 장르: 캐주얼, 퍼즐
 * 플랫폼 : PC (STEAM)
@@ -33,16 +33,19 @@ https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 한 줄 소개
 - "플레이어와 같은 색은 지나가고 다른 색은 부딪힌다"라는 성질을 이용해 플레이어의 색을 바꿔가며 퍼즐을 클리어하는 게임
 
-특징
-- 110개의 퍼즐 [이미지]
-- 사용자가 직접 맵을 제작하는 레벨 에디터 기능 [이미지]
-- 색각 이상자 (색약) 플레이어를 이용한 흑백 모드 지원 [이미지]
 
-전체 씬 구조
-- 이미지
+## 전체 씬 구조
+<img src="https://github.com/user-attachments/assets/7d772814-a33c-4af8-a6f8-d3bf5d465b25" />
 
-주요 씬 설명
+
+### 주요 씬 이미지
 - 게임 메인 화면
+<img src = "https://github.com/user-attachments/assets/eb8924fc-f140-4d27-9a09-5c089d3f6ffd" width = 30% height = 30% />
+
+<img src = "https://github.com/user-attachments/assets/87f48318-36b9-4b5e-b817-4cbd02356579" width = 30% height = 30% />
+
+<img src = "https://github.com/user-attachments/assets/f5cc1c51-01f1-4e56-8b18-b42459d2e7a9" width = 30% height = 30% />
+
 - 게임 플레이
 - 커스텀 레벨 에디터 제작
 - 커스텀 레벨 에디터 관리 시스템
