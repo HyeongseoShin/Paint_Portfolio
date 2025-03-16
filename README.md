@@ -30,9 +30,9 @@
 https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 
 
-한 줄 소개
+소개
 - "플레이어와 같은 색은 지나가고 다른 색은 부딪힌다"라는 성질을 이용해 플레이어의 색을 바꿔가며 퍼즐을 클리어하는 게임
-
+- 열쇠의 기능을 하는 붓을 획득하고 열린 문을 통과하면 스테이지 클리어!
 
 ## 전체 씬 구조
 <img src="https://github.com/user-attachments/assets/7d772814-a33c-4af8-a6f8-d3bf5d465b25" />
