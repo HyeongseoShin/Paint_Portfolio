@@ -13,11 +13,17 @@
 
 <img src = "https://github.com/user-attachments/assets/6a0353f1-98da-422c-8429-bf71f36ed5ec" width = "45%" height = "45%"/>
 
+
 * 게임 장르: 캐주얼, 퍼즐
+
 * 플랫폼 : PC (STEAM)
+
 * 개발 환경 : Unity (2020.3.25f LTS)
+
 * 서버 : 뒤끝 서버 (게임 서버 SaaS)
+
 * 기간 : 22.1 ~ 24.11
+
 * 인원 : 4명
   - 프로그래밍 : 2명 (본인)
   - 기획 : 1명
