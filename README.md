@@ -86,6 +86,7 @@ https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 
 ## 스크립트 폴더 설명
 |폴더 명|설명|
+|--|--|
 |BackendServer|플레이 정보를 서버와 연동하기 위해 필요한 스크립트 모음|
 |PlayerData|인 게임에서 플레이어와 관련된 모든 데이터 스크립트 모음|
 |Player|플레이어와 관련된 모든 동작(조작, 이동, 상호작용)을 수행하는 스크립트|
