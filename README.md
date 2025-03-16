@@ -70,6 +70,7 @@ https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 ## 담당 업무
 
 |주요 기능|세부 사항|
+|-------|-------|
 |Player Data 관리 및 서버 연동|인게임 데이터 Local Json 파일로 저장 (암호화)<br>스팀 계정 연동<br>유저 정보, 클리어 정보, 업적 달성 정보, 스테이지 플레이 로그, 커스텀 맵 데이터 등등 Read / Write|
 
 #### 
