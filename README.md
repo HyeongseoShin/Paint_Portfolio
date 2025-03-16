@@ -84,14 +84,12 @@ https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 |UI / UX||
 
 
-
 ## 스크립트 폴더 설명
-- BackendServer
-- LevelEditor
-- LevelEditorManager
-- Player
-- PlayerData
+|폴더 명|설명|
 
-각 담당업무별 세부 구현 사항 PPT처럼 표현 필요??
-플레이어 조작감 개선 부분 움짤 추가 필요?
+|BackendServer|플레이 정보를 서버와 연동하기 위해 필요한 스크립트 모음|
+|PlayerData|인 게임에서 플레이어와 관련된 모든 데이터 스크립트 모음|
+|Player|플레이어와 관련된 모든 동작(조작, 이동, 상호작용)을 수행하는 스크립트|
+|LevelEditor|직접 레벨 제작하는 툴을 개발할 때 필요한 스크립트 모음|
+|LevelEditorManager|서버와 연동하여 유저들의 커스텀 레벨을 관리하는 스크립트 모음|
 
