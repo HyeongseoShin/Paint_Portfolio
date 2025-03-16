@@ -9,9 +9,9 @@
 
 ## 프로젝트 개요
 
-<img src = "https://github.com/user-attachments/assets/ddbb748a-d41e-4daf-9620-41d15d27f792" width = "40%" height = "30%"/>
+<img src = "https://github.com/user-attachments/assets/ddbb748a-d41e-4daf-9620-41d15d27f792" width = "40%" height = "40%"/>
 
-<img src = "https://github.com/user-attachments/assets/6a0353f1-98da-422c-8429-bf71f36ed5ec" width = "40%" height = "30%"/>
+<img src = "https://github.com/user-attachments/assets/6a0353f1-98da-422c-8429-bf71f36ed5ec" width = "40%" height = "40%"/>
 
 * 게임 장르: 캐주얼, 퍼즐
 * 플랫폼 : PC (STEAM)
@@ -39,16 +39,28 @@ https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 
 
 ### 주요 씬 이미지
-- 게임 메인 화면
-<img src = "https://github.com/user-attachments/assets/eb8924fc-f140-4d27-9a09-5c089d3f6ffd" width = 30% height = 30% />
 
-<img src = "https://github.com/user-attachments/assets/87f48318-36b9-4b5e-b817-4cbd02356579" width = 30% height = 30% />
+- 메인 씬
+<img src = "https://github.com/user-attachments/assets/ec4c8409-c6c2-4f11-9daa-0dc98d682275" width = 40% height = 40% />
 
-<img src = "https://github.com/user-attachments/assets/f5cc1c51-01f1-4e56-8b18-b42459d2e7a9" width = 30% height = 30% />
 
 - 게임 플레이
-- 커스텀 레벨 에디터 제작
-- 커스텀 레벨 에디터 관리 시스템
+<img src = "https://github.com/user-attachments/assets/eb8924fc-f140-4d27-9a09-5c089d3f6ffd" width = 40% height = 40% />
+
+<img src = "https://github.com/user-attachments/assets/87f48318-36b9-4b5e-b817-4cbd02356579" width = 40% height = 40% />
+
+<img src = "https://github.com/user-attachments/assets/f5cc1c51-01f1-4e56-8b18-b42459d2e7a9" width = 40% height = 40% />
+
+
+- 커스텀 레벨 에디터 제작 씬
+<img src = "https://github.com/user-attachments/assets/abc4d4f5-07b0-43bd-a14e-299869758274" width = 40% height = 40% />
+
+<img src = "https://github.com/user-attachments/assets/bef8ad33-b206-4924-aff0-44d322916821" width = 40% height = 40% />
+
+- 커스텀 레벨 에디터 관리 시스템 씬
+<img src = "https://github.com/user-attachments/assets/e54977ec-bb4b-41e4-bc60-7be9010635ef" width = 40% height = 40%/>
+
+<img src = "https://github.com/user-attachments/assets/a391d18a-85d3-4ce7-99f8-e1c398771b4d" width = 40% height = 40%/>
 
 메인 게임 로직
 - 구조도
