@@ -62,14 +62,51 @@ https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 
 <img src = "https://github.com/user-attachments/assets/a391d18a-85d3-4ce7-99f8-e1c398771b4d" width = 40% height = 40%/>
 
-메인 게임 로직
-- 구조도
-- 이미지?
+## 메인 게임 로직
+<img src="https://github.com/user-attachments/assets/9b57469d-f6b9-401e-8fe7-2306d96f2485" width = 40% height = 40% />
 
-담당 업무
-표로 정리
 
-스크립트 폴더 설명
+
+## 담당 업무
+Player Data 관리 및 서버 연동
+* 인게임 데이터 Local Json 파일로 저장 (암호화)
+* 스팀 계정 연동
+* 유저 정보, 클리어 정보, 업적 달성 정보, 스테이지 플레이 로그, 커스텀 맵 데이터 등등 Read / Write
+
+커스텀 레벨 에디터 제작 참여
+* 레벨 데이터 파일 json 관리
+* CRUD
+
+SDK 연결
+* Steamworks
+* Google Play Games (현재 사용 X)
+* 뒤끝 서버 (게임서버 SaaS)
+
+Player 조작감 개선
+* 점프 버퍼 타임, 코요테 타임
+
+Scene 관리 및 유기적 연결
+* 다중 씬이 열려 있을 때 예외 처리
+* 인게임 내 카메라 전환 관리
+
+Post Processing을 이용한 흑백 연출
+
+최적화
+* Sprite Atlas
+* Addressable Asset System
+* 카메라 및 스크립트 최적화
+
+힌트 기능 제작
+
+인트로 컷신 & 튜토리얼 제작
+
+퍼즐 레벨 디자인 (44개)
+
+UI / UX
+
+
+
+## 스크립트 폴더 설명
 - BackendServer
 - LevelEditor
 - LevelEditorManager
