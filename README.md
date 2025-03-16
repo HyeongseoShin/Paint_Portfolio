@@ -25,7 +25,6 @@
 <br>
 <br>
 
-
 ## 스팀 페이지 : https://store.steampowered.com/app/2516270/Pant/?l=koreana
 
 <br>
