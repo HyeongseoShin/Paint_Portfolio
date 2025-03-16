@@ -72,40 +72,20 @@ https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 |주요 기능|세부 사항|
 |----------|----------------|
 |Player Data 관리 및 서버 연동|인게임 데이터 Local Json 파일로 저장 (암호화)<br>스팀 계정 연동<br>유저 정보, 클리어 정보, 업적 달성 정보, 스테이지 플레이 로그, 커스텀 맵 데이터 등등 Read / Write|
+|커스텀 레벨 에디터 제작 참여|레벨 데이터 파일 json 관리<br>CRUD|
+|SDK 연결|Steamworks<br>Google Play Games (현재 사용 X)<br>뒤끝 서버 (게임서버 SaaS)|
+|Player 조작감 개선|점프 버퍼 타임<br>코요테 타임|
+|Scene 관리 및 유기적 연결|다중 씬이 열려 있을 때 예외 처리<br>인게임 내 카메라 전환 관리|
 
-#### 
-#### 
-
-### 커스텀 레벨 에디터 제작 참여
-#### 레벨 데이터 파일 json 관리
-#### CRUD
-
-SDK 연결
-* Steamworks
-* Google Play Games (현재 사용 X)
-* 뒤끝 서버 (게임서버 SaaS)
-
-Player 조작감 개선
-* 점프 버퍼 타임, 코요테 타임
-
-Scene 관리 및 유기적 연결
-* 다중 씬이 열려 있을 때 예외 처리
-* 인게임 내 카메라 전환 관리
-
-Post Processing을 이용한 흑백 연출
-
-최적화
-* Sprite Atlas
+|최적화|* Sprite Atlas
 * Addressable Asset System
 * 카메라 및 스크립트 최적화
-
-힌트 기능 제작
-
-인트로 컷신 & 튜토리얼 제작
-
-퍼즐 레벨 디자인 (44개)
-
-UI / UX
+|
+|Post Processing을 이용한 흑백 연출||
+|힌트 기능 제작||
+|인트로 컷신 & 튜토리얼 제작||
+|퍼즐 레벨 디자인 (44개)||
+|UI / UX||
 
 
 
