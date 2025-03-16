@@ -3,6 +3,7 @@
 
 * 해당 프로젝트는 이미 출시된 프로젝트로 전체 코드가 아닌 제가 작업한 Scripts의 일부분만 있습니다.
 
+<br><br>
 
 # Pa!nt
 
@@ -28,32 +29,36 @@
   - 프로그래밍 : 2명 (본인)
   - 기획 : 1명
   - 아트 : 1명
-<br>
-<br>
+ 
+<br><br>
 
 ## 스팀 페이지 : https://store.steampowered.com/app/2516270/Pant/?l=koreana
 
-<br>
-<br>
+<br><br>
 
 ## 게임 소개
 
 https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 
+<br><br>
 
 ### 게임 규칙
 - "플레이어와 같은 색은 지나가고 다른 색은 부딪힌다"라는 성질을 이용해 플레이어의 색을 바꿔가며 퍼즐을 클리어하는 게임
 - 열쇠의 기능을 하는 붓을 획득하고 열린 문을 통과하면 스테이지 클리어!
 
+<br><br>
+
 ## 전체 씬 구조
 <img src="https://github.com/user-attachments/assets/7d772814-a33c-4af8-a6f8-d3bf5d465b25" />
 
+<br><br>
 
 ### 주요 씬 이미지
 
 #### 메인 씬
 <img src = "https://github.com/user-attachments/assets/ec4c8409-c6c2-4f11-9daa-0dc98d682275" width = 40% height = 40% />
 
+<br><br>
 
 #### 게임 플레이
 <img src = "https://github.com/user-attachments/assets/eb8924fc-f140-4d27-9a09-5c089d3f6ffd" width = 40% height = 40% />
@@ -62,11 +67,14 @@ https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 
 <img src = "https://github.com/user-attachments/assets/f5cc1c51-01f1-4e56-8b18-b42459d2e7a9" width = 40% height = 40% />
 
+<br><br>
 
 #### 커스텀 레벨 에디터 제작 씬
 <img src = "https://github.com/user-attachments/assets/abc4d4f5-07b0-43bd-a14e-299869758274" width = 40% height = 40% />
 
 <img src = "https://github.com/user-attachments/assets/bef8ad33-b206-4924-aff0-44d322916821" width = 40% height = 40% />
+
+<br><br>
 
 #### 커스텀 레벨 에디터 관리 시스템 씬
 <img src = "https://github.com/user-attachments/assets/e54977ec-bb4b-41e4-bc60-7be9010635ef" width = 40% height = 40%/>
@@ -76,7 +84,7 @@ https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 ## 메인 게임 로직
 <img src="https://github.com/user-attachments/assets/9b57469d-f6b9-401e-8fe7-2306d96f2485" />
 
-
+<br><br>
 
 ## 담당 업무
 
@@ -94,6 +102,7 @@ https://github.com/user-attachments/assets/d70e27aa-bd56-4050-adcd-15a6b6f71380
 |퍼즐 레벨 디자인 (44개)||
 |UI / UX||
 
+<br><br>
 
 ## 스크립트 폴더 설명
 |폴더 명|설명|
